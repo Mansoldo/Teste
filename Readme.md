@@ -8,6 +8,4 @@ Adicionando outra linha.
 
 Teste.
 
-Teste de versionamento
-
-huuahuaha.
+Teste de versionamento.
