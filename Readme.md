@@ -7,3 +7,5 @@ Contiuando com o teste.
 Adicionando outra linha.
 
 Teste.
+
+Teste de versionamento.
